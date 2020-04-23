@@ -29,7 +29,7 @@ The data is served in a standard-based message format.
 <img src="logos.png" alt="COCOP and EU" style="display:block;margin-right:auto" />
 
 COCOP - Coordinating Optimisation of Complex Industrial Processes  
-https://cocop-spire.eu/
+[https://cocop-spire.eu/](https://cocop-spire.eu/)
 
 This project has received funding from the European Union's Horizon 2020
 research and innovation programme under grant agreement No 723661. This piece
