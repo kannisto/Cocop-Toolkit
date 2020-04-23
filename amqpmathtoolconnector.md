@@ -10,13 +10,13 @@ data.
 
 ## Download
 
-* Java API: https://github.com/kannisto/Cocop.AmqpMathToolConnector
+* Java API: [https://github.com/kannisto/Cocop.AmqpMathToolConnector](https://github.com/kannisto/Cocop.AmqpMathToolConnector)
 
 
 ## Author
 
 * Petri Kannisto, Tampere University, Finland (based on the work of Sathish
-Kumar Narayanan; https://github.com/ragavsathish/RabbitMQ-Matlab-Client )
+Kumar Narayanan; [https://github.com/ragavsathish/RabbitMQ-Matlab-Client](https://github.com/ragavsathish/RabbitMQ-Matlab-Client) )
 
 
 ## Acknowledgement

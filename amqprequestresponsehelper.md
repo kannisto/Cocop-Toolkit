@@ -11,8 +11,8 @@ instead. The library provides you both a client and server.
 
 ## Download
 
-* C#/.NET API: https://github.com/kannisto/Cocop.AmqpRequestResponseHelper_csharp
-* Java API: https://github.com/kannisto/Cocop.AmqpRequestResponseHelper_java
+* C#/.NET API: [https://github.com/kannisto/Cocop.AmqpRequestResponseHelper_csharp](https://github.com/kannisto/Cocop.AmqpRequestResponseHelper_csharp)
+* Java API: [https://github.com/kannisto/Cocop.AmqpRequestResponseHelper_java](https://github.com/kannisto/Cocop.AmqpRequestResponseHelper_java)
 
 
 ## Author

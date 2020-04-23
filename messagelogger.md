@@ -14,7 +14,7 @@ project.
 
 ## Download
 
-* .NET desktop app: https://github.com/kannisto/Cocop.MessageLogger
+* .NET desktop app: [https://github.com/kannisto/Cocop.MessageLogger](https://github.com/kannisto/Cocop.MessageLogger)
 
 
 ## Authors

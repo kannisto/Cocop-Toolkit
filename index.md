@@ -15,7 +15,7 @@ Communication stack
 * [Introduction](stack.html)
 * [Cocop.MessageSerialiser](messageserialiser.html) (by Petri Kannisto)
 * [Cocop.AmqpRequestResponseHelper](amqprequestresponsehelper.html) (by Petri Kannisto)
-* [RabbitMQ.Client](https://www.rabbitmq.com/) (link to external website; a third-party API)
+* RabbitMQ.Client (third-party API; see [https://www.rabbitmq.com/](https://www.rabbitmq.com/) )
 
 
 Additional software tools
