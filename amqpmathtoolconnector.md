@@ -8,7 +8,7 @@ you can not only send data but also subscribe for an AMQP topic to receive
 data.
 
 
-## Download
+## API
 
 * Source code (Java): [https://github.com/kannisto/Cocop.AmqpMathToolConnector](https://github.com/kannisto/Cocop.AmqpMathToolConnector)
 * API doc: [https://kannisto.github.io/Cocop.AmqpMathToolConnector](https://kannisto.github.io/Cocop.AmqpMathToolConnector)

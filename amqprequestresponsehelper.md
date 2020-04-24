@@ -9,16 +9,13 @@ RabbitMQ), because the native AMQP communication pattern is publish-subscribe
 instead. The library provides you both a client and server.
 
 
-## Download
-
-
-### C#/.NET API
+## C#/.NET API
 
 * Source code: [https://github.com/kannisto/Cocop.AmqpRequestResponseHelper_csharp](https://github.com/kannisto/Cocop.AmqpRequestResponseHelper_csharp)
 * API doc: [https://kannisto.github.io/Cocop.AmqpRequestResponseHelper_csharp](https://kannisto.github.io/Cocop.AmqpRequestResponseHelper_csharp)
 
 
-### Java API
+## Java API
 
 * Source code: [https://github.com/kannisto/Cocop.AmqpRequestResponseHelper_java](https://github.com/kannisto/Cocop.AmqpRequestResponseHelper_java)
 * API doc: [https://kannisto.github.io/Cocop.AmqpRequestResponseHelper_java](https://kannisto.github.io/Cocop.AmqpRequestResponseHelper_java)
