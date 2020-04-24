@@ -115,11 +115,21 @@ COCOP-specific extensions not included in the standards, but these are few.
 This API provides data structures for the scheduling of production. The structures are based on B2MML (Business to Manufacturing Markup Language), which implements the ANSI/ISA-95 standard. B2MML is copyrighted to Manufacturing Enterprise Solutions Association (MESA International; [http://www.mesa.org/en/B2MML.asp](http://www.mesa.org/en/B2MML.asp) ). However, please note that only a subset of B2MML structures is supported in this API, as the API was developed particularly for the needs of the COCOP project. Scheduling is not the only area of B2MML, and this implementation omits even some scheduling-related features.
 
 
-### Download
+### Access the API
 
 * Profile specification (XML): [https://github.com/kannisto/Cocop.MessageSerialiser.Biz_spec](https://github.com/kannisto/Cocop.MessageSerialiser.Biz_spec)
-* C#/.NET API: [https://github.com/kannisto/Cocop.MessageSerialiser.Biz_csharp](https://github.com/kannisto/Cocop.MessageSerialiser.Biz_csharp)
-* Java API: [https://github.com/kannisto/Cocop.MessageSerialiser.Biz_java](https://github.com/kannisto/Cocop.MessageSerialiser.Biz_java)
+
+
+#### C#/.NET
+
+* Source code: [https://github.com/kannisto/Cocop.MessageSerialiser.Biz_csharp](https://github.com/kannisto/Cocop.MessageSerialiser.Biz_csharp)
+* API doc: [https://kannisto.github.io/Cocop.MessageSerialiser.Biz_csharp](https://kannisto.github.io/Cocop.MessageSerialiser.Biz_csharp)
+
+
+#### Java
+
+* Source code: [https://github.com/kannisto/Cocop.MessageSerialiser.Biz_java](https://github.com/kannisto/Cocop.MessageSerialiser.Biz_java)
+* API doc: [https://kannisto.github.io/Cocop.MessageSerialiser.Biz_java](https://kannisto.github.io/Cocop.MessageSerialiser.Biz_java)
 
 
 ### Author
