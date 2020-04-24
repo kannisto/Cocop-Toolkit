@@ -7,6 +7,8 @@ the research project COCOP (Coordinating Optimisation of Complex Industrial
 Processes). This does not include all COCOP software, because not all is
 generic and/or open source.
 
+You can find the website at [https://kannisto.github.io/Cocop-Toolkit/](https://kannisto.github.io/Cocop-Toolkit/)
+
 ---
 
 <img src="logos.png" alt="COCOP and EU" style="display:block;margin-right:auto" />
