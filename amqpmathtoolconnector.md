@@ -10,7 +10,8 @@ data.
 
 ## Download
 
-* Java API: [https://github.com/kannisto/Cocop.AmqpMathToolConnector](https://github.com/kannisto/Cocop.AmqpMathToolConnector)
+* Source code (Java): [https://github.com/kannisto/Cocop.AmqpMathToolConnector](https://github.com/kannisto/Cocop.AmqpMathToolConnector)
+* API doc: [https://kannisto.github.io/Cocop.AmqpMathToolConnector](https://kannisto.github.io/Cocop.AmqpMathToolConnector)
 
 
 ## Author

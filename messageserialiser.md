@@ -91,8 +91,18 @@ COCOP-specific extensions not included in the standards, but these are few.
 ### Download
 
 * Profile specification (XML): [https://github.com/kannisto/Cocop.MessageSerialiser.Meas_spec](https://github.com/kannisto/Cocop.MessageSerialiser.Meas_spec)
-* C#/.NET API: [https://github.com/kannisto/Cocop.MessageSerialiser.Meas_csharp](https://github.com/kannisto/Cocop.MessageSerialiser.Meas_csharp)
-* Java API: [https://github.com/kannisto/Cocop.MessageSerialiser.Meas_java](https://github.com/kannisto/Cocop.MessageSerialiser.Meas_java)
+
+
+#### C#/.NET API
+
+* Source code: [https://github.com/kannisto/Cocop.MessageSerialiser.Meas_csharp](https://github.com/kannisto/Cocop.MessageSerialiser.Meas_csharp)
+* API doc: [https://kannisto.github.io/Cocop.MessageSerialiser.Meas_csharp](https://kannisto.github.io/Cocop.MessageSerialiser.Meas_csharp)
+
+
+#### Java API
+
+* Source code: [https://github.com/kannisto/Cocop.MessageSerialiser.Meas_java](https://github.com/kannisto/Cocop.MessageSerialiser.Meas_java)
+* API doc: [https://kannisto.github.io/Cocop.MessageSerialiser.Meas_java](https://kannisto.github.io/Cocop.MessageSerialiser.Meas_java)
 
 
 ### Author
